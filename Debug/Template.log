@@ -1,0 +1,11 @@
+﻿D:\Microsoft Visual Studio\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  [GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(157,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(161,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(165,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(169,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(198,29): warning C4305: '+=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(203,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(208,29): warning C4305: '-=': truncation from 'double' to 'float'
+D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\[GK3][Tugas 2] - [2D Graphics Simple Game] - [Pieter][015].cpp(213,29): warning C4305: '+=': truncation from 'double' to 'float'
+  Template.vcxproj -> D:\5 - MATA KULIAH SEMESTER 5\B2 - LAB Grafika Komputer\Tugas1\Debug\Tugas1.exe
